@@ -1,0 +1,2 @@
+class AmmoDelivery < ApplicationRecord
+end

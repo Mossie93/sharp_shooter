@@ -44,6 +44,7 @@ gem "bootsnap", require: false
 
 gem "pg"
 gem "devise"
+gem "bootstrap"
 
 
 # Use Sass to process CSS
